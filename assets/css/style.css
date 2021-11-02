@@ -1,0 +1,32 @@
+@import url(reset.css);
+@import url(common.css);
+
+.main{
+}
+.main .main-col{
+}
+.main-col-01{
+    background: #FAFAFA;
+}
+.main-col-01 .text{
+    
+}
+.main-col-01 .title{
+}
+.main-col-02{
+    background: url(../images/main-bg.jpg) center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.main-col-03{
+    display: flex;
+    flex-direction: column;
+}
+.sub-block-1{
+    background: #FAFAFA;
+    height: 60%;
+}
+.sub-block-2{
+    background: url(../images/marble-one.jpg);
+    height: 40%;
+}
